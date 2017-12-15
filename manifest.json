@@ -1,0 +1,8 @@
+{
+  "name": "The Transformers",
+  "short_name": "Transformers",
+  "description": "Transformers Presentation",
+  "lang": "en-US",
+  "start_url": "multi.html",
+  "display": "standalone",
+}
